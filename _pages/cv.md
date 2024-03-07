@@ -11,54 +11,62 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy, Faculty of Engineering, MSRI (Monash Suzhou Research Institute), Monash University, 2023-Now
-* Bachelor of Engineering majoring in Electronic Information Engineering, Fuzhou University, Fujian, China, 2019-2023
+* Bachelor of Engineering majoring in Mechanical Design manufacture and Automation, Fuzhou University, Fujian, China, 2021-2025
 
 Publications and Patent
 ======
-* Co-first-author. A Comprehensive Review of the Development and Applications of Hydrogen Energy Technologies in China for Carbon Neutrality: Technology Advances and Challenges, Fuel (Under review)
-* Co-author. A Machine Learning and CFD Modeling Hybrid Approach for Predicting Real-time Heat Transfer During Cokemaking Processes, Fuel (Under review)
-* Co-author. The Employment of Domain Adaptation Strategy for Improving the Applicability of Neural Network-Based Coke Quality Prediction for Smart Cokemaking Process, Fuel (Under review)
-* First-author. Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network, Sensors ([link](https://www.mdpi.com/1424-8220/23/3/1525)), IF=3.847
-* Co-author. A real-time middle deviation correction device and method for electromagnetic pulse welding pipe, Chinese invention patent (CN115121927B)
-* Co-author. Intelligent pest control methods and systems, Chinese invention patent (CN116569898A)
+* Rui Tang, Breast Image Classification Based on ResNet and Random Forest Multilayer Classifier Model，BioSMART The First Author(have been successfully published on IEEE Xplore)
+* Rui Tang, A Multi-Layer Classifier Model XR-KS of Human Activity Recognition for the Problem of Similar Human Activity The Third Author（JCR2 Senors）
+* Rui Tang, Surgical Robotic Arm Guidance System Based on Point Laser Precision Navigation, The Second Author (Laser and Optoelectronics Development, Beida Core)
+* Rui Tang, et al. An Intelligent Nucleic Acid Sampling Assistant Robot (submitted for final review)
 
 Awards and Scholarships
 ======
-* National scholarship, Ministry of Education of the People's Republic of China, Oct. 2022
-* First-class Scholarship, Fuzhou University, Oct. 2021, May 2022 and Oct. 2022, Three times
-* Second prize, National Undergraduate Electronic Design and Production Competition in Fujian Division, Texas Instruments Cup, China, Aug. 2022
-* First prize, National Marine Vehicle Design and Production Competition, China, Aug. 2021
-
+* Scholarship, Fuzhou University, Oct. 2022, Apr,2023,Second times
+* Third prize,The Sino-American Maker Competition in Xiamen Division,Jul,2022
+* Second prize, Digital dimension Cup International College Student Modeling Competition,international, Oct,2022
+* Second prize, Certified Cup Mathematical Modeling Contest,international,Nov,2022
+* The "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition,China,Jul,2022
+* First prize, Provincial First Prize in National College Student Electronic Design Competition,China,Sep,2021
+* Huashu Cup International Mathematical Modeling Competition,international,Jan,2024
 Work experience
 ======
-* 2023-Now: Assistant Researcher
-  * MSRI, Monash University
 * 2022-2023: Research Assistant
   * Quanzhou Equipment Institute, Chinese Academy of Sciences
-  * Duties included: Image processing, AI edge computing, Embedded system
+  * Duties included: Object Detection, Position Guided Vision, robotic system
   * Supervisor: Prof. Jun Li
   
 Research Experiences
 ======
-* Smart port unmanned patrol inspection system based on deep learning (Supervise by Pingping Chen)
-  * YOLOv5 Network FPGM pruning and TensorRT acceleration
-  * Builds an AI embedded system based on Jetson nano
-* Research on pipe centering technology based on visual algorithm in electromagnetic pulse welding (Supervise by Gang Mou)
-  * Circle detection based on the Hough transform
-  * Automatic control system construction based on Arduino
-* Tea leaf recognition and grasping system based on adaptive low-brightness image enhancement (Supervise by Jun Li)
-  * Adaptive low-brightness image enhancement with tea bag target recognition
-  * Industrial mechanical arm control
+* School of Advanced Manufacturing, Fuzhou University, Qvanzhou, P.R. China  2022-present
+   Project: “ Nucleic acid detection robot” , Supervise by Hua Lin 
+  *  Project Leader
+  *  Face detection mask recognition and body temperature detection based on stm 32 and k210
+  *  Robot trajectory planning
+  Project: “Virtual simulation of robot lining based on digital twin technology ” , Supervise by Gang Mou
+  *  Project Leader
+  * Unity 3D Modeling and communication
+  * Mechanical structure design
+  * Monitoring software design
+* Quanzhou Equipment Institute, Chinese Academy of Sciences, Qvanzhou, P.R. China 2023-present
+   Project: “ Visual guided surgical robotic arm control system”, Supervise by Jun Li
+  * Project leader
+  * Real-time tracking of laser target detection based on yolov5
+  * Camera calibration and hand-eye calibration
+  * Industrial arm control and arm path planning
+* Online AI Research Project of Nanyang Technological University,Online,P.R. China 2022-2023
+   Project:Medical image classification based on a deep-learning algorithm”, Supervise by Teoh Teik Toe
+  * Project leader
+  * Medical image classification based on a deep-learning algorithm
 
 Activities
 ======
-* Deputy Minister, Network department, School of Ocean, Fuzhou University (FZU), Sep. 2020-Sep. 2021
-* Volunteer, Test competition of the World Middle School Student Games, Jinjiang, China, May, 2021
-* Laboratory members, Electronic Enthusiovers Association, School of Ocean, FZU, Sep. 2021-Present
-* Student Member, IEEE, Mar. 2022-Present
+
+*Study member,Advanced Manufacturing College of Fuzhou University  Sep. 2022-Present
+*Laboratory Member,Robot Association of Fuzhou University Sep. 2021-Present
+*Laboratory members, Electronic Enthusiovers Association of Fuzhou University, Sep. 2021-Present
 
 Skills
 ======
-* Computer skills: Python, MATLAB, C, C++, Verilog, etc.
-* Engneering skills: ANSYS Fluent, Embedded development (MDK v5, Arduino, STM32CubeMX), Altium Designer, etc.
+*Computer skills: Python, MATLAB,Management Software Computer Aided Design, etc.
+*Engneering skills: Embedded development (keil C51, Arduino, STM32CubeMX),  Robot Operating System, linux，etc.
