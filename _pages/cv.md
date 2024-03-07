@@ -17,7 +17,7 @@ Publications and Patent
 ======
 * Rui Tang, Breast Image Classification Based on ResNet and Random Forest Multilayer Classifier Model，BioSMART The First Author(have been successfully published on IEEE Xplore)
 * Rui Tang, A Multi-Layer Classifier Model XR-KS of Human Activity Recognition for the Problem of Similar Human Activity The Third Author（JCR2 Senors）
-* Rui Tang, Surgical Robotic Arm Guidance System Based on Point Laser Precision Navigation, The Second Author (Laser and Optoelectronics Development, Beida Core)
+* Rui Tang, Surgical Robotic Arm Guidance System Based on Point Laser Precision Navigation, The Second Author (Laser&Optoelectronics Progress, CSCD，CSSCI，ESCI)
 * Rui Tang, et al. An Intelligent Nucleic Acid Sampling Assistant Robot (submitted for final review)
 
 Awards and Scholarships
