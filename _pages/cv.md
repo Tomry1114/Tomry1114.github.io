@@ -29,6 +29,7 @@ Awards and Scholarships
 * The "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition,China,Jul,2022
 * First prize, Provincial First Prize in National College Student Electronic Design Competition,China,Sep,2021
 * Huashu Cup International Mathematical Modeling Competition,international,Jan,2024
+  
 Work experience
 ======
 * 2022-2023: Research Assistant
@@ -62,11 +63,11 @@ Research Experiences
 Activities
 ======
 
-*Study member,Advanced Manufacturing College of Fuzhou University  Sep. 2022-Present
-*Laboratory Member,Robot Association of Fuzhou University Sep. 2021-Present
-*Laboratory members, Electronic Enthusiovers Association of Fuzhou University, Sep. 2021-Present
+* Study member,Advanced Manufacturing College of Fuzhou University  Sep. 2022-Present
+* Laboratory Member,Robot Association of Fuzhou University Sep. 2021-Present
+* Laboratory members, Electronic Enthusiovers Association of Fuzhou University, Sep. 2021-Present
 
 Skills
 ======
-*Computer skills: Python, MATLAB,Management Software Computer Aided Design, etc.
-*Engneering skills: Embedded development (keil C51, Arduino, STM32CubeMX),  Robot Operating System, linux，etc.
+* Computer skills: Python, MATLAB,Management Software Computer Aided Design, etc.
+* Engneering skills: Embedded development (keil C51, Arduino, STM32CubeMX),  Robot Operating System, linux，etc.
